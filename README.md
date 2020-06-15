@@ -1,4 +1,8 @@
-# Recipe-App
-This is a recipe app
+<h1>Recipe App</h1>
+<h4>In this recipe app you can search for recipies get cooking instructions and add recipies to favorite list!</h4>
 
-LIVE DEMO: https://samod667.github.io/Recipe-App/
+<a href="https://samod667.github.io/Recipe-App/"><h3>LIVE DEMO</h3></a>
+<br>
+![img-1](img/img1)
+
+
