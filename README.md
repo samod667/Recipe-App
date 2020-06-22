@@ -3,6 +3,6 @@
 
 <a href="https://samod667.github.io/Recipe-App/"><h3>LIVE DEMO</h3></a>
 <br>
-![img-1](img/img1)
+![img-1](img/1.png)
 
 
